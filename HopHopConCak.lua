@@ -3,7 +3,7 @@ local ServerFunc = {}
 function ServerFunc:NormalTeleport()
 	task.delay(15,function()
 		pcall(function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/Api/main/BitCoinDeCodeApi.cs"))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/ReisagaTest/FuncChoBloxGay/refs/heads/main/TeleportVaoTjmIem.lua"))()
 		end)
 	end)
 	repeat fask.wait()
